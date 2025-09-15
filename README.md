@@ -1,36 +1,31 @@
-# Parchment
-A clean, single column blog template built for jekyll
+# Reseña de  "El Principito"
+Este blog está dedicado a compartir mis impresiones y reflexiones sobre libros, en este caso es "El Principito" de Antoine de Saint-Exupery.
 
-## Building Locally
-* Clone the repository
-* Run `bundle install`
-* Run `bundle exec jekyll serve`
-* Visit browser at `http://127.0.0.1:4000/parchment/`
+## Sobre el libro
+* Genero: Novela corta/ Filosofía
+* Autor: Antoine de Saint-Exupery
+* Publicado: 1943
 
-## Usage
+## Lo que más me gustó
 
-* To use this as your GitHub Page, fork this repository, and
-  rename it to `<username>.github.io`. Your site will be live
-  at `https://<username>.github.io/parchment-jekyll`.
+* 1. La manera sencila en la que explica temas profundos.
+* 2. Los personajes que representan valores humanos.
+* 3. El mensaje sobre la importancia de ver con el corazón
+* 4. La amistad como un valor central y eterno.
+* 5. La crítica a la vanidad, al egoísmo y al materialismo
+* 6. Que es un libro para todas las edades: cada lectura te enseña algo nuevo
+* 7. Su capacidad de hacernos reflexionar con pocas palabras
 
-* You can customise variables in `_config.yml` and `css/*` files.
+## Frases favoritas
+* 1. "Lo escencial es invisible a los ojos"
+* 2. " Eres resppnsable para siempre de lo que has domesticado"
+* 3. "Fue el tiempo que pasaste con tu rosa lo que la hizo tan impotante"
+* 4. "Las personas mayores nunca comprenden nada por sí solas"
+* 5. "El mundo entero cambia cuando alguien te importa"
+* 6. "Es mucho mas dificíl juzgarse a sí mismo que juzgar a los demás"
 
-* You can add markdown files, say `foo.md` in the root directory
-  of the repository. It will then be accessible like
-  `your.website.com/foo`.
-
-* To add posts, add your posts in the `_posts` directory. Follow
-  the naming convention `%yyyy-%mm-%dd-your-title-here.md`.
-
-* To add a profile picture, use class `profile-picture` around
-  the image.
-
-## Contributing
-Pull requests are welcome. For major changes, please open an
-issue first to discuss what you would like to change.
-
-## Credits
-Parchment is inspired from the resume theme
+## Conclusión
+Es un libro que nunca pasa de moda y que recomiendo leer más de una vez en distntas etapas de la vida
 [Researcher](https://github.com/ankitsultana/researcher)
 
 ## License
