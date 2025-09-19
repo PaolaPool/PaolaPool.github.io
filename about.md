@@ -5,21 +5,17 @@ title: About Me
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-I'm Paola. I've been working as a Software Engineer for over 30 years. I like to innovate to solve challenging problems using technology. I work with a great Engineering team, but we have a good-for-nothing and clueless manager, who can be replaced with a monkey and the change would be for the better.
-
-On a personal front, I live with two amazing pets - Dogbert and Ratbert, and three dinasours - Bob, Rex and Dawn - who're hiding from the rest of the world. I'm single and have few friends due to my poor social skills, but I usually spend my time playing with computers and technology.
+I'm Paola. I’m interested in technology and learning new things that help me grow both personally and professionally. I enjoy working in teams and finding practical solutions to problems.
 
 ### Life Advice
-Here are a few things I've learned over the years,
-> An optimist is simply a pessimist with no job experience.
+> Every experience teaches something new.
 
-> All of your co-workers are fools. You must learn to pity and tolerate them.
+> Patience and consistency make the difference.
 
-> There are very few problems that can't be solved through a suitable application of high explosives.
+> With a positive attitude, everything gets easier.
 
 ### Publications
-1. Dilbert, Ratbert: "Effects of having a dog and a dinasaur in the same house", _Journal of Wierd Studies_
-2. Alice, Dilbert, Wally: "Efficient ways to deal with a dumb manager", _Conference of Frustrated Engineers_
+I don’t have publications yet, but I’m open to sharing ideas and learnings in the future.
 
 ### Contact Me
-No thanks, I have enough problems of my own to deal with.
+I like to keep it simple, but I’m always open to collaborate or have a conversation when needed.
